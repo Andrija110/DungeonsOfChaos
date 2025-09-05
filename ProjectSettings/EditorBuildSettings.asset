@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GameScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 24a26053b30363740a7ccdbc6b5f5734
+  - enabled: 1
+    path: Assets/Scenes/Name.unity
+    guid: f15c36d958898a2488eb102b5e609556
+  - enabled: 1
+    path: Assets/Scenes/Score.unity
+    guid: 5e3eea99357956b47b8a8423f60a3b3f
+  - enabled: 1
+    path: Assets/Scenes/MainArea.unity
+    guid: c40c87bb385b797438859edeeb813686
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: 46683d7313df6f047a76800c8f39b63e
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: 40f97ea97277f4540ba97908c991ad55
+  - enabled: 1
+    path: Assets/Scenes/3.unity
+    guid: f5f86c29d90417743b753c8dda6e73ba
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: 46f0a94c2e9facb43ab15ed479bdc760
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 506a2f68d56603849bb4c40725d49f2c
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: de2fb310f536d92439d863cc7eea9ead
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: bdf4f66f25851d64b84c41a68d4d5ab4, type: 2}
